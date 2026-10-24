@@ -1,0 +1,22 @@
+{
+  "name": "text-entities-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/text-entities: extract validated identifiers with source evidence.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/text-entities": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/text-entities.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/text-entities"
+}

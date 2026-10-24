@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/text-entities",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/text-entities",
+  "usageRepository": "https://github.com/x12i-sdk/text-entities",
+  "sourceRepository": "https://github.com/x12i/distinctive-terms",
+  "sourceCommit": "75caadc9b8e4851a7250a4d9ad3f480131805413",
+  "sourcePackageDirectory": "packages/text-entities",
+  "example": {
+    "title": "Extract validated identifiers with source evidence",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:03.634656+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "cee787acd60f56eff893d593f29ee1ed15b5c4750051a337a774d2fcfe8a39c7",
+    "manifestSha256": "dfb7af191172ec6f363b27d0b5c84658e6aa2c7e1afe076decc3565de52b64d3"
+  }
+}
