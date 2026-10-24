@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Validated identifiers and exact dictionary mentions, with source evidence.
-- A Text integration needs to reuse the capabilities of @x12i/text-entities inside a larger application.
+- Recognize validated identifiers or exact dictionary terms and retain their source spans.
+- Add deterministic entity evidence to a downstream topic-tagging workflow.
 
 ## Links
 
